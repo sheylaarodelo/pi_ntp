@@ -1,0 +1,9 @@
+[theme]
+# Forzar el tema de la aplicación a claro
+base="light"
+
+# Colores primarios para un toque rosado claro
+primaryColor="#ff98ccff" # Rosa Brillante
+backgroundColor="#f091b0ff" # Fondo Blanco Flor de Cerezo (General)
+secondaryBackgroundColor="#ff7ca8ff" # Rosa Pálido (para selectores/cajas)
+font="sans serif"
