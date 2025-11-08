@@ -3,7 +3,7 @@
 base="light"
 
 # Colores primarios para un toque rosado claro
-primaryColor="#ff98ccff" # Rosa Brillante
+primaryColor="#fc3737ff" # Rosa Brillante
 backgroundColor="#f091b0ff" # Fondo Blanco Flor de Cerezo (General)
 secondaryBackgroundColor="#ff7ca8ff" # Rosa Pálido (para selectores/cajas)
 font="sans serif"

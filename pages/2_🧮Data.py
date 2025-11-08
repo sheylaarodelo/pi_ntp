@@ -159,7 +159,7 @@ st.markdown("""
              padding:10px; 
              border-radius:10px; 
              text-align:center;">
-    <h1 style="color:white;">🚨Análisis de Siniestros Viales en Medellín🚨</h1>
+    <h1 style="color:white;">🚨Análisis de Accidentes Viales en Medellín🚨</h1>
 </div>
 """, unsafe_allow_html=True)
 

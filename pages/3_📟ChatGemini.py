@@ -27,7 +27,7 @@ st.markdown("""
 
 /* Botón Principal de Envío */
 .stButton>button {
-    background-color: #FF80AB; /* Rosa Brillante */
+    background-color: #fc3737ff; /* Rojo */
     color: white;
     border-radius: 15px; 
     padding: 12px 28px;
